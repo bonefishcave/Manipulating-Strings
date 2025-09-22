@@ -40,6 +40,10 @@
 
     static void upperCase()
     {
+        Console.WriteLine("Enter string to be uppercased: ");
+        string userInput = Console.ReadLine();
+        string uppercasedString = "";
 
+        for int x 
     }
 }
