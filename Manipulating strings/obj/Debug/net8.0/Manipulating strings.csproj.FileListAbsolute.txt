@@ -1,0 +1,15 @@
+/workspaces/Manipulating-Strings/Manipulating strings/bin/Debug/net8.0/Manipulating strings
+/workspaces/Manipulating-Strings/Manipulating strings/bin/Debug/net8.0/Manipulating strings.deps.json
+/workspaces/Manipulating-Strings/Manipulating strings/bin/Debug/net8.0/Manipulating strings.runtimeconfig.json
+/workspaces/Manipulating-Strings/Manipulating strings/bin/Debug/net8.0/Manipulating strings.dll
+/workspaces/Manipulating-Strings/Manipulating strings/bin/Debug/net8.0/Manipulating strings.pdb
+/workspaces/Manipulating-Strings/Manipulating strings/obj/Debug/net8.0/Manipulating strings.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Manipulating-Strings/Manipulating strings/obj/Debug/net8.0/Manipulating strings.AssemblyInfoInputs.cache
+/workspaces/Manipulating-Strings/Manipulating strings/obj/Debug/net8.0/Manipulating strings.AssemblyInfo.cs
+/workspaces/Manipulating-Strings/Manipulating strings/obj/Debug/net8.0/Manipulating strings.csproj.CoreCompileInputs.cache
+/workspaces/Manipulating-Strings/Manipulating strings/obj/Debug/net8.0/Manipulating strings.sourcelink.json
+/workspaces/Manipulating-Strings/Manipulating strings/obj/Debug/net8.0/Manipulating strings.dll
+/workspaces/Manipulating-Strings/Manipulating strings/obj/Debug/net8.0/refint/Manipulating strings.dll
+/workspaces/Manipulating-Strings/Manipulating strings/obj/Debug/net8.0/Manipulating strings.pdb
+/workspaces/Manipulating-Strings/Manipulating strings/obj/Debug/net8.0/Manipulating strings.genruntimeconfig.cache
+/workspaces/Manipulating-Strings/Manipulating strings/obj/Debug/net8.0/ref/Manipulating strings.dll
